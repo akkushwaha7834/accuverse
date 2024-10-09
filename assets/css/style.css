@@ -381,7 +381,7 @@ img {
 }
 
 .theme-btn-one:hover{
-  background: #241E2F;
+  background: var(--theme-secondary);
 }
 
 .theme-btn-one:before{
@@ -393,7 +393,7 @@ img {
   top: 0px;
   z-index: -1;
   transform: scale(0,0);
-  background: #241E2F;
+  background: var(--theme-secondary);
   transition: all 500ms ease;
 }
 
@@ -820,8 +820,8 @@ img {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0px 70px;
-  background: #241E2F;
+  padding: 15px 70px;
+  background: var(--theme-secondary);
   border-radius: 0px 0px 100px 100px;
 }
 
@@ -1058,7 +1058,7 @@ img {
   margin-top: 15px;
   padding: 10px 0px;
   z-index:100;
-  background: #241E2F;
+  background: var(--theme-secondary);
   display:none;
   opacity: 0;
   visibility: hidden;
@@ -1071,7 +1071,7 @@ img {
 }
 
 .main-menu .navigation > li > .megamenu{
-  background: #241E2F;
+  background: var(--theme-secondary);
 }
 
 .main-menu .navigation > li > .megamenu a{
@@ -1157,7 +1157,7 @@ img {
   display:none;
   border-radius: 0px;
   padding: 10px 0px;
-  background: #241E2F;
+  background: var(--theme-secondary);
   transition:all 500ms ease;
   -moz-transition:all 500ms ease;
   -webkit-transition:all 500ms ease;
@@ -1790,7 +1790,7 @@ div#mCSB_1_container{
 }
 
 .bg-color-2{
-  background: #241E2F;
+  background: var(--theme-secondary);
 }
 
 .nav-style-one .owl-nav button{
@@ -2005,7 +2005,7 @@ div#mCSB_1_container{
 /** header-style-two **/
 
 .header-style-two .header-top{
-  background: #241E2F;
+  background: var(--theme-secondary);
 }
 
 .header-style-two .header-top .top-right .login a{
@@ -2017,8 +2017,8 @@ div#mCSB_1_container{
 }
 
 .header-style-two.main-header .menu-right-content .btn-box a:hover{
-  background: #241E2F;
-  border-color: #241E2F;
+  background: var(--theme-secondary);
+  border-color: var(--theme-secondary);
 }
 
 .parallax-bg{
