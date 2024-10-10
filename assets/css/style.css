@@ -536,7 +536,7 @@ img {
   top: 0;
   height: 100%;
   width: 100%;
-  background: red;
+  background: var(--theme-primary);
 }
 
 .scroll-to-top .scroll-bar .bar-inner {
@@ -551,7 +551,7 @@ img {
   font-size: 14px;
   font-weight: 600;
   cursor: pointer;
-  color: red;
+  color: var(--theme-primary);
   transition: all 500ms ease;
 }
 
@@ -1854,7 +1854,7 @@ div#mCSB_1_container{
 
 .main-footer{
   position: relative;
-  background: #1D1826;
+  background: var(--theme-secondary);
 }
 
 .main-footer .widget-section{
@@ -1988,7 +1988,7 @@ div#mCSB_1_container{
 .footer-bottom{
   position: relative;
   display: block;
-  background: #191521;
+  background: #022050;
   padding: 31px 0px;
 }
 

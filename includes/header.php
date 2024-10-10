@@ -32,6 +32,13 @@
 <link href="assets/css/elements-css/page-title.css" rel="stylesheet">
 <link href="assets/css/elements-css/service.css" rel="stylesheet">
 <link href="assets/css/elements-css/contact.css" rel="stylesheet">
+<link href="assets/css/elements-css/chooseus.css" rel="stylesheet">
+<link href="assets/css/elements-css/clients.css" rel="stylesheet">
+<link href="assets/css/elements-css/cta.css" rel="stylesheet">
+<link href="assets/css/elements-css/team.css" rel="stylesheet">
+<link href="assets/css/elements-css/feature.css" rel="stylesheet">
+<link href="assets/css/elements-css/video.css" rel="stylesheet">
+<link href="assets/css/elements-css/error.css" rel="stylesheet">
 <link href="assets/css/elements-css/blog.css" rel="stylesheet">
 <link href="assets/css/elements-css/service-details.css" rel="stylesheet">
 <link href="assets/css/elements-css/chooseus.css" rel="stylesheet">
@@ -95,7 +102,7 @@
         <div id="search-popup" class="search-popup">
             <div class="popup-inner">
                 <div class="upper-box clearfix">
-                    <figure class="logo-box pull-left"><a href="index.html"><img src="assets/images/logo.png" alt=""></a></figure>
+                    <figure class="logo-box pull-left"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></figure>
                     <div class="close-search pull-right"><span class="far fa-times"></span></div>
                 </div>
                 <div class="overlay-layer"></div>
